@@ -1,7 +1,7 @@
 body {
   margin: 0px;
   padding: 0px;
-  background-color: white;
+  background-color: rgb(246, 231, 238);
 }
 
 ul {
@@ -51,5 +51,20 @@ nav ul
 
  .logo:hover {
   color: white;
+ }
+
+ .home p {
+  line-height: 0px;
+
+ }
+
+
+ .picture {
+  width:300px;
+  height: auto;
+  position: absolute;
+  left: 5%;
+  top: 20%;
+
  }
 
